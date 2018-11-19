@@ -29,7 +29,7 @@ public class Main {
                 System.out.println("Hello " + message);
 
         greetService1.sayMessage("Mahesh");
-        greetService2.sayMessage("Suresh");
+        greetService2.sayMessage("Super Branch 1");
     }
 
     interface MathOperation {
