@@ -28,7 +28,7 @@ public class Main {
         GreetingService greetService2 = (message) ->
                 System.out.println("Hello " + message);
 
-        greetService1.sayMessage("Mahesh");
+        greetService1.sayMessage("Master Branch");
         greetService2.sayMessage("Suresh");
     }
 
